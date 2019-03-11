@@ -1,0 +1,10 @@
+{
+	"VmName":["SQL", "Data"],
+	"Path":["C:/Users/otorma/Documents/VM/CreatedVMs"],
+	"Processors": 2,
+	"Memory": 2,
+	"Disk":[
+		{"Name":["sql","test","data"], "Size":[4, 7, 9]} 
+	]
+}	
+	

@@ -1,0 +1,9 @@
+{
+	"VmName": "FileSrv",
+	"Path": ["C:/Users/otorma/Documents/VM/CreatedVMs"],
+	"Processors": 2,
+	"Memory": 2,
+	"Disk": [
+		{"Name": ["disk1", "disk2"], "Size": [10,10]} 
+	]
+}	
